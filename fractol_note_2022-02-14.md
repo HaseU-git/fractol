@@ -4,3 +4,5 @@
 - understand how to use minilibx
 - Julia set and the Mandelbrot set.
 
+## How to use minilibx
+- [docs](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)
