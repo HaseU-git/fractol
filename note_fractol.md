@@ -7,6 +7,14 @@ updateed:2022-02-16
 - understand how to use minilibx
 - Julia set and the Mandelbrot set.
 
+## how to use minilibx
+
+compilation
+```shell
+gcc -Wall -Wextra -Werror -I libx_opengl_20191021 -L minilibx -lmlx -framework OpenGL -framework AppKit main.c
+```
+
+
 ## Reference
 - [docs](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)
 - [the reference of folder structure](https://github.com/t0mm4rx/cub3d/blob/master/Makefile)
